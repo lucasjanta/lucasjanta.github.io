@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 70" width="150" height="70">
+  <!-- placeholders: trocar pelos icones oficiais no Illustrator -->
+  <g font-family="'Chakra Petch', Arial, sans-serif" font-weight="700" text-anchor="middle" stroke="#0F1117" stroke-width="3">
+    <rect x="4" y="20" width="32" height="32" rx="8" fill="#478CBF"/>
+    <text x="20" y="42" font-size="13" fill="#fff" stroke="none">GD</text>
+    <rect x="40" y="10" width="32" height="32" rx="8" fill="#7D9AA8"/>
+    <text x="56" y="32" font-size="13" fill="#fff" stroke="none">ASE</text>
+    <rect x="76" y="10" width="32" height="32" rx="8" fill="#A259FF"/>
+    <text x="92" y="32" font-size="13" fill="#fff" stroke="none">FIG</text>
+    <rect x="112" y="20" width="32" height="32" rx="8" fill="#F05032"/>
+    <text x="128" y="42" font-size="13" fill="#fff" stroke="none">GIT</text>
+  </g>
+  <g stroke="#3DD9D6" stroke-width="3" stroke-linecap="round">
+    <line x1="20" y1="10" x2="20" y2="2"/><line x1="128" y1="10" x2="128" y2="2"/>
+    <line x1="74" y1="62" x2="74" y2="68"/>
+  </g>
+</svg>

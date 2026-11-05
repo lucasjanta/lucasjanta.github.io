@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" width="960" height="340">
+  <!-- fundo -->
+  <rect width="960" height="340" fill="#0F1117"/>
+  <polygon points="600,0 960,0 960,340 520,340" fill="#151924"/>
+  <g stroke="#1B1F2A" stroke-width="2">
+    <line x1="0" y1="60" x2="960" y2="60"/><line x1="0" y1="120" x2="960" y2="120"/>
+    <line x1="0" y1="180" x2="960" y2="180"/><line x1="0" y1="240" x2="960" y2="240"/>
+  </g>
+  <!-- balcao -->
+  <rect y="300" width="960" height="40" fill="#1B1F2A"/>
+  <rect y="298" width="960" height="4" fill="#FF6A3D"/>
+  <!-- chef: corpo -->
+  <g stroke="#0F1117" stroke-width="4" stroke-linejoin="round">
+    <path d="M88 302 Q92 246 128 234 L206 234 Q242 246 246 302 Z" fill="#E6E6EB"/>
+    <path d="M200 236 Q236 250 240 300 L214 300 Q214 262 196 244 Z" fill="#C9CED8" stroke="none"/>
+    <path d="M142 230 L192 230 L167 262 Z" fill="#FF6A3D"/>
+    <g fill="#8A93A6" stroke="none">
+      <circle cx="150" cy="266" r="5"/><circle cx="184" cy="266" r="5"/>
+      <circle cx="150" cy="286" r="5"/><circle cx="184" cy="286" r="5"/>
+    </g>
+    <!-- cabeca (o topo fica sob o chapeu) -->
+    <circle cx="112" cy="178" r="10" fill="#E9B98E"/>
+    <circle cx="222" cy="178" r="10" fill="#E9B98E"/>
+    <circle cx="167" cy="176" r="56" fill="#E9B98E"/>
+    <ellipse cx="147" cy="170" rx="6" ry="8" fill="#0F1117" stroke="none"/>
+    <ellipse cx="187" cy="170" rx="6" ry="8" fill="#0F1117" stroke="none"/>
+    <path d="M140 196 Q154 186 167 194 Q180 186 194 196 Q182 206 167 200 Q152 206 140 196 Z" fill="#3A2A20" stroke="none"/>
+    <path d="M156 212 Q167 220 178 212" fill="none" stroke-width="3"/>
+    <!-- braco segurando a bandeja -->
+    <path d="M214 250 Q262 236 330 196" fill="none" stroke="#0F1117" stroke-width="30" stroke-linecap="round"/>
+    <path d="M214 250 Q262 236 330 196" fill="none" stroke="#E6E6EB" stroke-width="22" stroke-linecap="round"/>
+    <circle cx="336" cy="190" r="15" fill="#E9B98E"/>
+  </g>
+  <!-- bandeja das redes -->
+  <g stroke="#0F1117" stroke-width="4" stroke-linejoin="round">
+    <path d="M300 160 L612 160 L596 182 L316 182 Z" fill="#8A93A6"/>
+    <rect x="292" y="152" width="328" height="12" rx="6" fill="#C9CED8"/>
+  </g>
+  <!-- nome do estudio -->
+  <g font-family="'Chakra Petch', 'Arial Black', sans-serif" font-weight="700" text-anchor="end">
+    <text x="930" y="150" font-size="84" fill="#E6E6EB">JANTA</text>
+    <text x="930" y="240" font-size="84" fill="#FF6A3D">GAMES</text>
+    <text x="930" y="282" font-size="20" font-weight="500" fill="#3DD9D6" letter-spacing="2">GAMEPLAY PROGRAMMING · GODOT 4</text>
+  </g>
+</svg>
